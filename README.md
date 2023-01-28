@@ -6,12 +6,12 @@ This page presents UFO sighting data in a searchable format, allowing users to f
 ## Results
 Users may see the unfiltered data by leaving all the filter search fields on the left empty as shown here:
 
-[[[image]]]
+![](https://github.com/SecretDoves3000/UFOs/blob/main/images/ufoSS1.png)
 
 Filling in one piece of information in the filter search fields will filter the data according to the inputs. Here we have sightings from Arkansas (abbreviated as ak) and then a further filter to show only the sightings from Arkansas which where spherical in shape.
 
-[[[image]]]
-[[[image]]]
+![](https://github.com/SecretDoves3000/UFOs/blob/main/images/ufoSS2.png)
+![](https://github.com/SecretDoves3000/UFOs/blob/main/images/ufoSS3.png)
 
 ## Summary
 
